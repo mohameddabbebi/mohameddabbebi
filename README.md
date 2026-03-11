@@ -1,91 +1,51 @@
-👋 Bonjour, je suis Mohamed Dabbebi
+# 👋 Bonjour, je suis Mohamed Dabbebi
 
-🎓 Étudiant en école d’ingénieurs en informatique
-🤖 Passionné par l’intelligence artificielle et le développement logiciel
-📍 Basé en France 🇫🇷
-🔎 À la recherche d’un stage d’été 2026 et d’une alternance 2026–2027
+🎓 Étudiant en école d’ingénieurs en informatique  
+🤖 Passionné par l’Intelligence Artificielle et le développement logiciel  
+📍 Basé en France  
+🔎 À la recherche d’un **stage été 2026** et d’une **alternance 2026–2027**
 
-🚀 À propos de moi
+---
 
-Je suis actuellement étudiant en cycle ingénieur en informatique dans le cadre d’un double diplôme entre l’ENSIIE (France) et l’ENSI (Tunisie).
+## 🚀 À propos de moi
 
-Je m’intéresse particulièrement au développement d’applications intelligentes, aux systèmes basés sur l’IA et à la résolution de problèmes complexes à l’aide d’algorithmes et de techniques de machine learning.
+Étudiant en **cycle ingénieur en informatique** dans le cadre d’un **double diplôme ENSIIE (France) – ENSI (Tunisie)**.  
+Je m’intéresse au développement de **systèmes intelligents**, au **machine learning** et à la conception d’**applications full-stack**.
 
-Mes domaines d’intérêt :
+**Domaines d’intérêt**
 
-Intelligence Artificielle
+- Intelligence Artificielle  
+- Machine Learning  
+- Computer Vision  
+- Développement Backend / Full-Stack  
+- Optimisation & Algorithmes  
 
-Machine Learning
+---
 
-Computer Vision
+## 🧠 Compétences techniques
 
-Développement Backend / Full-Stack
+| Catégorie | Technologies |
+|-----------|-------------|
+| **Langages** | Python • Java • C++ |
+| **Frameworks** | Spring Boot • React • Flask |
+| **IA / Data** | PyTorch • Scikit-learn • NLTK • OpenCV • Pandas • NumPy |
+| **Bases de données** | MySQL • PostgreSQL |
+| **Outils** | Git • VS Code • IntelliJ IDEA • Google Colab • UML |
 
-Optimisation et algorithmes
+---
 
-🧠 Compétences techniques
-💻 Langages de programmation
+## 🎓 Formation
 
-Python
+**ENSIIE – Évry, France**  
+Diplôme d’ingénieur en informatique *(2025 – 2027)*  
 
-Java
+**ENSI – Manouba, Tunisie**  
+Diplôme d’ingénieur en informatique *(2023 – 2025)*  
 
-C++
+---
 
-⚙️ Frameworks & technologies
+## 📫 Contact
 
-Spring Boot
-
-React
-
-Flask
-
-🤖 Intelligence artificielle / Data
-
-PyTorch
-
-Scikit-learn
-
-NLTK
-
-OpenCV
-
-Pandas
-
-NumPy
-
-🗄️ Bases de données
-
-MySQL
-
-PostgreSQL
-
-🛠 Outils
-
-Git
-
-VS Code
-
-IntelliJ IDEA
-
-Google Colab
-
-UML / Umlet
-
-
-🎓 Formation
-
-ENSIIE – Évry, France
-Diplôme d’ingénieur en informatique
-2025 – 2027
-
-ENSI – Manouba, Tunisie
-Diplôme d’ingénieur en informatique
-2023 – 2025
-
-📫 Contact
-
-📧 Email : mohameddebebil6@gmail.com
-
-💼 LinkedIn : linkedin.com/in/mohamed-dabbebi-5ba610284
-🐙 GitHub : github.com/mohameddabbebi
+📧 **Email** : mohameddebebil6@gmail.com  
+💼 **LinkedIn** : linkedin.com/in/mohamed-dabbebi-5ba610284  
+🐙 **GitHub** : github.com/mohameddabbebi
