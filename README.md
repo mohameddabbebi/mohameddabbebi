@@ -9,8 +9,7 @@
 
 ## 🚀 À propos de moi
 
-Étudiant en **cycle ingénieur en informatique** dans le cadre d’un **double diplôme ENSIIE (France) – ENSI (Tunisie)**.  
-Je m’intéresse au développement de **systèmes intelligents**, au **machine learning** et à la conception d’**applications full-stack**.
+Je m’intéresse particulièrement à l’intelligence artificielle, au machine learning et au développement logiciel, et j’aime concevoir des solutions innovantes combinant algorithmes, data et applications modernes.
 
 **Domaines d’intérêt**
 
