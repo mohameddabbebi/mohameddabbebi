@@ -27,10 +27,10 @@ Je m’intéresse au développement de **systèmes intelligents**, au **machine 
 | Catégorie | Technologies |
 |-----------|-------------|
 | **Langages** | Python • Java • C++ |
-| **Frameworks** | Spring Boot • React • Flask |
 | **IA / Data** | PyTorch • Scikit-learn • NLTK • OpenCV • Pandas • NumPy |
+| **Frameworks** | Spring Boot • React • Flask |
 | **Bases de données** | MySQL • PostgreSQL |
-| **Outils** | Git • VS Code • IntelliJ IDEA • Google Colab • UML |
+| **Outils** | Git • Docker • VS Code • IntelliJ IDEA • Google Colab • UML |
 
 ---
 
