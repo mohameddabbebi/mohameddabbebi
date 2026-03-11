@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Mohamed Dabbebi
+# Bonjour, je suis Mohamed Dabbebi
 
 🎓 Étudiant en école d’ingénieurs en informatique  
 🤖 Passionné par l’Intelligence Artificielle et le développement logiciel  
