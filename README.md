@@ -42,10 +42,3 @@ Diplôme d’ingénieur en informatique *(2025 – 2027)*
 **ENSI – Manouba, Tunisie**  
 Diplôme d’ingénieur en informatique *(2023 – 2025)*  
 
----
-
-## 📫 Contact
-
-📧 **Email** : mohameddebebil6@gmail.com  
-💼 **LinkedIn** : linkedin.com/in/mohamed-dabbebi-5ba610284  
-🐙 **GitHub** : github.com/mohameddabbebi
