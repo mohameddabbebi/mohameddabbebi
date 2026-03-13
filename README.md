@@ -1,13 +1,13 @@
 # Bonjour, je suis Mohamed Dabbebi
 
-🎓 Étudiant en école d’ingénieurs en informatique  
-🤖 Passionné par l’Intelligence Artificielle et le développement logiciel  
-📍 Basé en France  
-🔎 À la recherche d’un **stage été 2026** et d’une **alternance 2026–2027**
+ Étudiant en école d’ingénieurs en informatique  
+ Passionné par l’Intelligence Artificielle et le développement logiciel  
+ Basé en France  
+ À la recherche d’un **stage été 2026** et d’une **alternance 2026–2027**
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Je m’intéresse particulièrement à l’intelligence artificielle, au machine learning et au développement logiciel, et j’aime concevoir des solutions innovantes combinant algorithmes, data et applications modernes.
 
@@ -21,7 +21,7 @@ Je m’intéresse particulièrement à l’intelligence artificielle, au machine
 
 ---
 
-## 🧠 Compétences techniques
+## Compétences techniques
 
 | Catégorie | Technologies |
 |-----------|-------------|
@@ -33,7 +33,7 @@ Je m’intéresse particulièrement à l’intelligence artificielle, au machine
 
 ---
 
-## 🎓 Formation
+## Formation
 
 **ENSIIE – Évry, France**  
 Diplôme d’ingénieur en informatique *(2025 – 2027)*  
