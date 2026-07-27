@@ -3,13 +3,13 @@
  Étudiant en école d’ingénieurs en informatique  
  Passionné par l’Intelligence Artificielle et le développement logiciel  
  Basé en France  
- À la recherche d’un **stage été 2026** et d’une **alternance 2026–2027**
+ À la recherche d’une **alternance 2026–2027**
 
 ---
 
 ##  À propos de moi
 
-Je m’intéresse particulièrement à l’intelligence artificielle, au machine learning et au développement logiciel, et j’aime concevoir des solutions innovantes combinant algorithmes, data et applications modernes.
+Je m’intéresse particulièrement à l’intelligence artificielle et au développement logiciel, et j’aime concevoir des solutions innovantes combinant algorithmes, data et applications modernes.
 
 **Domaines d’intérêt**
 
