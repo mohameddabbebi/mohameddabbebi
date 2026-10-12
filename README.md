@@ -3,7 +3,7 @@
  Étudiant en école d’ingénieurs en informatique  
  Passionné par l’Intelligence Artificielle et le développement logiciel  
  Basé en France  
- À la recherche d’une **alternance 2026–2027**
+ À la recherche d’un stage de 6 mois à partir de février 2027.
 
 ---
 
